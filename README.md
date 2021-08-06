@@ -1,4 +1,4 @@
-https://awartanian.github.io/pokemon-game/
+https://heman-development.github.io/Pokemon-Game/
 
 # Pokemon Lite
 
