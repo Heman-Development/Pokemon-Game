@@ -10,7 +10,7 @@ https://heman-development.github.io/Pokemon-Game/
 Group project of 3 - a fun pokemon battle game where you attack opponents, buy stardust and hear some cool sound effects.
 
 ///// ATTENTION /////
-Completed: April 2021 - done without any DOM manipulation training/knowledge.
+Completed: April 2021 - done without any DOM manipulation and JavaScript training/knowledge.
 Rendering the project on the browser was not art of the assignment, hence the code might be a bit rusty.  
 
 Other contributors: 
